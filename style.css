@@ -1,16 +1,8 @@
 body{
-    background-color: palegoldenrod;
+    background-color: blueviolet;
 }
 
-h1{
-    text-align: center;
+h1 {
     font-size: xx-large;
-}
-
-.ul{
-    color: blue;
-}
-
-.butterfly{
-    width: 200px;
+    text-align: center;
 }
