@@ -1,8 +1,13 @@
 body{
-    background-color: blueviolet;
+    background-color:sandybrown;
 }
 
 h1 {
     font-size: xx-large;
     text-align: center;
+}
+
+.animals {
+   color: brown; 
+   font-size: xx-large;
 }
