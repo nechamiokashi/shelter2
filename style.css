@@ -12,3 +12,7 @@ h1 {
    font-size: xx-large;
    border-color: black;
 }
+
+.ships{
+    height: 70px;
+}
